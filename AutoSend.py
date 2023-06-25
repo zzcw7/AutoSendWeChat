@@ -46,8 +46,8 @@ def clearImg():
     os.remove('./wxScreen.png')
 
 if __name__ == '__main__':
-    name = "传输"
-    message = "哈哈"
+    name = ""
+    message = ""
 
     intoWx()
     clickSearch()
